@@ -16,7 +16,7 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 ### Call for Workshop Proposals
 
-SLTC 2024 will host selected workshops on relevant topics. [Information on Submission](cfw) (coming soon).
+SLTC 2024 will host selected workshops on relevant topics. We invite proposals on suitable workshops. [Information on Submission](cfw) (coming soon).
 
 ### Call for Extended Abstracts
 
