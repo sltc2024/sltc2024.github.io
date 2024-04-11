@@ -31,7 +31,8 @@ The conference does not publish any proceedings but accepted contributions will 
 
 ### Organizers 
 
-*
-*
-*
+SLTC 2024 is organized by Linköping University.  
+
+* Local organization committee: TBA.
+* Program chairs: TBD.
 
