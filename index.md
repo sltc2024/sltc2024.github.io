@@ -2,7 +2,7 @@
 title: SLTC 2024
 ---
 
-The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<sup>th</sup>–29<sup>th</sup> of November 2024** at **Linköping University**, Sweden, with the main conference on Wednesday–Thursday 27<sup>th</sup>-28<sup>th</sup> of November and workshops on Friday, 29<sup>th</sup> of November.
+The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<sup>th</sup>–29<sup>th</sup> of November 2024** at **Linköping University**, Sweden, with the main conference on Wednesday–Thursday 27<sup>th</sup>-28<sup>th</sup> of November and workshops on Friday, 29<sup>th</sup> of November. 
 
 ### Important Dates
 
