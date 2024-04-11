@@ -1,3 +1,5 @@
-## SLTC 2024
+---
+title: SLTC 2024
+---
 
-The Swedish ... 
+Welcome to the [SLTC](https://sltc2024.github.io/)-2024 homepage!
