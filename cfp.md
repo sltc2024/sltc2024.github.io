@@ -2,9 +2,9 @@
 
 More information coming soon.
 
-### Content 
+### Content
 
-Papers are invited on all theoretical, practical and applied aspects of language technology, including natural language processing, computational linguistics, speech technology and neighbouring areas. Papers can describe completed or ongoing research, as well as practical applications of language technology, and may be combined with systemdemonstrations.
+Papers are invited on all theoretical, practical and applied aspects of language technology, including natural language processing, computational linguistics, speech technology and neighbouring areas. Papers can describe completed or ongoing research, as well as practical applications of language technology, and may be combined with system demonstrations.
 
 ### Submission 
 
