@@ -1,4 +1,6 @@
-TBD
+## Call for Papers
+
+More information coming soon.
 
 ### Content 
 
