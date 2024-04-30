@@ -2,9 +2,11 @@
 
 SLTC is inviting submissions of extended abstracts on any NLP-related topic. We offer a chance to present your completed or ongoing work to colleagues at other Swedish and Nordic universities. 
 
-* Submission deadline: TBA
+* Submission deadline: 4.9. 
 * Notification of acceptance: TBA
 * Camera-ready version due: TBA
+
+All deadlines are 23:59 CEST.
 
 ### Content
 
