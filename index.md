@@ -33,6 +33,12 @@ The conference does not publish any proceedings but accepted contributions will 
 
 SLTC 2024 is organized by Linköping University.  
 
-* Local organization committee: TBA.
-* Program chairs: TBD.
+Local organization committee: 
+* Lars Ahrensberg
+* Arne Jönsson
+* Marco Kuhlmann
+* Jenny Kunz
+
+Program chairs:
+* TBD.
 
