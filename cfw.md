@@ -4,7 +4,7 @@ SLTC 2024 will host selected workshops on relevant topics. We invite proposals o
 
 ## Submissions
 
-Workshop proposals can be submitted in free-text form as a PDF file, by email to “sltc2024@googlegroups.com”. Proposals must include at least the following:
+Workshop proposals can be submitted in free-text form as a PDF file, by email to sltc2024@googlegroups.com. Proposals must include at least the following:
 
 * Title of the proposed workshop.
 * Topic and goals of the proposed workshop.
