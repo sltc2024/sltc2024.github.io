@@ -14,7 +14,7 @@ Papers are invited on all theoretical, practical and applied aspects of language
 
 ### Submission 
 
-We invite extended abstracts of up to 4 pages excluding references. Submissions should be anonymised and use the style files of the *ACL conferences, available on [GitHub](https://acl-org.github.io/ACLPUB/formatting.html) and on [Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). 
+We invite extended abstracts of up to 4 pages excluding references. Submissions should be anonymised and use the style files of the *ACL conferences, available on [GitHub](https://acl-org.github.io/ACLPUB/formatting.html) and on [Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). You may include appendices of any length.
 
 The conference does not publish any proceedings but accepted contributions will be made available on the conference web page as extended abstracts. Hence, it is possible to submit abstracts related to work that has been, or will be, published elsewhere, as long as this is compatible with the conditions of the respective publication channels. 
 
