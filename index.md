@@ -26,8 +26,8 @@ The conference does not publish any proceedings but accepted contributions will 
 
 ### Invited Speakers
 
-* TBD
-* TBD 
+* **David Samuel** won the BabyLM Challenge 2023 on training a language model on a fixed data budget of 10 or 100 million tokens. Their submission outperformed much larger models trained on trillions of tokens. In this talk, David will share his insights on what is needed for successful pre-training with small corpora. 
+* TBA.
 
 ### Organizers 
 
