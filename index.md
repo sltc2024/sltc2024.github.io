@@ -39,5 +39,5 @@ Local organization committee:
 * Marco Kuhlmann
 * Jenny Kunz
 
-Previous editions: 2022 (KTH), [2020 (GU)](https://spraakbanken.gu.se/en/sltc2020), [2018 (SU)](https://sltc2018.su.se), [2016 (UmU)](http://sltc2016.cs.umu.se), [2014 (UU)](https://www2.lingfil.uu.se/SLTC2014/), [2012 (LU)](https://nlp.cs.lth.se/events/sltc-2012/), [2010 (LiU)](https://www.ida.liu.se/conferences/sltc2010/), 2008 (KTH), 2006 (GU).
+Recent history: 2022 (KTH), [2020 (GU)](https://spraakbanken.gu.se/en/sltc2020), [2018 (SU)](https://sltc2018.su.se), [2016 (UmU)](http://sltc2016.cs.umu.se), [2014 (UU)](https://www2.lingfil.uu.se/SLTC2014/), [2012 (LU)](https://nlp.cs.lth.se/events/sltc-2012/), [2010 (LiU)](https://www.ida.liu.se/conferences/sltc2010/), 2008 (KTH), 2006 (GU).
 
