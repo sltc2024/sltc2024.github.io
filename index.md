@@ -26,8 +26,8 @@ The conference does not publish any proceedings but accepted contributions will 
 
 ### Invited Speakers
 
-* **David Samuel** won the CoNLL 2023 Shared Task on training a language model on a fixed data budget of 10 or 100 million tokens, also called the BabyLM challenge. Their submission outperformed much larger models trained on trillions of tokens. In this talk, David will share his insights on what is needed for successful pre-training with small corpora. 
-* TBA.
+* **David Samuel** is a PhD student in the Language Technology Group at the University of Oslo. His team's submission won the CoNLL 2023 Shared Task on training a language model on a fixed data budget of 10 or 100 million tokens, also called the BabyLM challenge. It outperformed much larger models trained on trillions of tokens. In this talk, David will share his insights on what is needed for successful pre-training with small corpora. 
+* **Tiago Pimentel** is a Postdoc at ETH Zürich and holds a PhD from the University of Cambridge. His work on information theory as a tool to understand linguistics and language models has been groundbreaking, with important applications such as probing representations for linguistic structure and improving sampling strategies in generative models.
 
 ### Organizers 
 
