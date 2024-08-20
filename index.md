@@ -33,7 +33,7 @@ We will have two keynotes by our exciting invited speakers:
 
 ### Organizers 
 
-SLTC 2024 is organized by Linköping University.  
+SLTC 2024 is organized by Linköping University and sponsored by the [WARA Media and Language](https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/).  
 
 Local organization committee: 
 * Lars Ahrensberg
