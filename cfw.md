@@ -18,6 +18,5 @@ As the organiser of accepted workshop proposals, you will be responsible for pub
 ## Important Dates
 
 * Workshop proposal submission deadline: ~~Friday, 23 August~~
-* Workshop notification of acceptance: **Monday, 26 August.**
-* Main conference: Wednesday–Thursday, 27–28 November.
+* Workshop notification of acceptance: ~~Monday, 26 August.~~
 * Workshops: Friday, 29 November.
