@@ -6,8 +6,8 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 ### Important Dates
 
-* Workshop Proposal Submission Deadline: ~~9.8~~ **Extended: 23.8.**
-* Workshop Notification of Acceptance: ~~16.8~~ **26.8.**
+* Workshop Proposal Submission Deadline: ~~23.8.~~
+* Workshop Notification of Acceptance: **26.8.**
 * Extended Abstracts Submission Deadline: 4.9.
 * Extended Abstracts Notification of Acceptance: 14.10.
 * Camera-Ready Abstracts: 1.11. 
