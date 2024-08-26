@@ -36,7 +36,7 @@ We will have two keynotes by our exciting invited speakers:
 SLTC 2024 is organized by Linköping University and sponsored by [WARA Media and Language](https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/).  
 
 Local organization committee: 
-* Lars Ahrensberg
+* Lars Ahrenberg
 * Arne Jönsson
 * Marco Kuhlmann
 * Jenny Kunz
