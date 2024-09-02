@@ -23,7 +23,7 @@ SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's
 * Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction
 * Applications of Universal Dependencies
 
-More information about the workshops is coming soon! 
+More information is coming soon! 
 
 ### Call for Extended Abstracts
 
