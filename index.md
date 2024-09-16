@@ -8,7 +8,7 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 * Workshop Proposal Submission Deadline: ~~23.8.~~
 * Workshop Notification of Acceptance: ~~26.8.~~
-* Extended Abstracts Submission Deadline: ~~4.9~~ **Extended: 15.9.**.
+* Extended Abstracts Submission Deadline: ~~15.9~~
 * Extended Abstracts Notification of Acceptance: 14.10.
 * Camera-Ready Abstracts: 1.11. 
 * Conference: 27-28.11. 
@@ -18,8 +18,8 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's workshops are: 
 
-* Computational Social Science and Language Technology
-* Swedish Workshop on Conversational AI
+* [Computational Social Science and Language Technology](https://sites.google.com/view/css-language-tech-workshop)
+* [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home)
 * Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction
 * Applications of Universal Dependencies
 
