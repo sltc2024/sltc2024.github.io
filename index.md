@@ -23,8 +23,6 @@ SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's
 * Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction
 * Applications of Universal Dependencies
 
-More information is coming soon! 
-
 ### Call for Extended Abstracts
 
 Papers are invited on all theoretical, practical and applied aspects of language technology, including natural language processing, computational linguistics, speech technology and neighbouring areas. Papers can describe completed or ongoing research, as well as practical applications of language technology, and may be combined with system demonstrations. [More Information](cfp).
