@@ -21,7 +21,7 @@ SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's
 * [Computational Social Science and Language Technology](https://sites.google.com/view/css-language-tech-workshop)
 * [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home)
 * Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction
-* Applications of Universal Dependencies
+* [Applications of Universal Dependencies](https://udapp-sltc-2024.github.io)
 
 ### Call for Extended Abstracts
 
