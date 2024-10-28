@@ -18,6 +18,10 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 If you will participate at SLTC, please register [here](https://www.trippus.net/sltc2024_delegate). 
 
+### Program
+
+The program will be published in the beginning of November. The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
+
 ### Workshops
 
 SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's workshops are: 
@@ -27,11 +31,6 @@ SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's
 * Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction
 * [Applications of Universal Dependencies](https://udapp-sltc-2024.github.io)
 
-### Call for Extended Abstracts
-
-Papers are invited on all theoretical, practical and applied aspects of language technology, including natural language processing, computational linguistics, speech technology and neighbouring areas. Papers can describe completed or ongoing research, as well as practical applications of language technology, and may be combined with system demonstrations. [More Information](cfp).
-
-The conference does not publish any proceedings but accepted contributions will be made available on the conference web page as extended abstracts. Hence, it is possible to submit abstracts related to work that has been, or will be, published elsewhere, as long as this is compatible with the conditions of the respective publication channels.
 
 ### Invited Speakers
 
@@ -39,6 +38,12 @@ We will have two keynotes by our exciting invited speakers:
 
 * **David Samuel** is a PhD student in the Language Technology Group at the University of Oslo. His team's submission won the CoNLL 2023 Shared Task on training a language model on a fixed data budget of 10 or 100 million tokens, also called the BabyLM challenge. It outperformed much larger models trained on trillions of tokens. In this talk, David will share his insights on what is needed for successful pre-training with small corpora. 
 * **Tiago Pimentel** is a Postdoc at ETH Zürich and holds a PhD from the University of Cambridge. His work on information theory as a tool to understand linguistics and language models has been groundbreaking, with important applications such as probing representations for linguistic structure and improving sampling strategies in generative models.
+
+### Call for Extended Abstracts
+
+Papers are invited on all theoretical, practical and applied aspects of language technology, including natural language processing, computational linguistics, speech technology and neighbouring areas. Papers can describe completed or ongoing research, as well as practical applications of language technology, and may be combined with system demonstrations. [More Information](cfp).
+
+The conference does not publish any proceedings but accepted contributions will be made available on the conference web page as extended abstracts. Hence, it is possible to submit abstracts related to work that has been, or will be, published elsewhere, as long as this is compatible with the conditions of the respective publication channels.
 
 ### Organizers 
 
