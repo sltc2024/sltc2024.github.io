@@ -16,7 +16,7 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 ### Registration
 
-If you will participate at SLTC, please register [here](https://www.trippus.net/sltc2024_delegate). 
+If you will participate, please register [here](https://www.trippus.net/sltc2024_delegate). 
 
 ### Program
 
@@ -28,7 +28,7 @@ SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's
 
 * [Computational Social Science and Language Technology](https://sites.google.com/view/css-language-tech-workshop)
 * [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home)
-* Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction
+* [Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction](https://gu-clasp.github.io/language-and-perception/events/positronic-brain/)
 * [Applications of Universal Dependencies](https://udapp-sltc-2024.github.io)
 
 
