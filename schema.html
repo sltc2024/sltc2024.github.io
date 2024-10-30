@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Lars Ahrenberg" />
+  <title>Program, SLTC2024</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 100px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    thead {
+	color: blue;
+	padding-bottom: 100px;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.25em 0.5em 0.25em 0.8em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Program_SLTC2024</h1>
+<p class="date">November 27-29, 2024</p>
+</header>
+<h2 id="day-1">Day 1, November, 27</h2>
+<p>Oral presentations are given in the lecture hall, Ada Lovelace. The frame is 10 minutes for presentation and 5 minutes for discussion.</p>
+  
+<p>Coffee is served in Ljusgården and poster presentations in ??</p>
+<div id="tab:day1">
+<table>
+<caption></caption>
+<thead >
+<tr>
+<th style="text-align: center;"><strong>Time</strong></th>
+<th style="text-align: center;"><strong>Content</strong></th>
+<th style="text-align: center;"><strong>Chair</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">13.00</td>
+<td style="text-align: center;">Welcome</td>
+<td style="text-align: center;">Marco?Jenny?</td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">13.05</td>
+<td style="text-align: center;">Invited speaker: <i>Tiago Pimentel</i></td>
+<td style="text-align: center;"> &nbsp; </td>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center;">Title
+TBA</td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">14.00</td>
+<td style="text-align: center;">Speech and dialogue -- do NOT move to 28th!</td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">22, 26, 35 -- speech and dialogue Authors1 (Larsson), Title 1
+Title1</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">22, 26, 35 -- speech and dialogueAuthors2 (Tånnander et al), Title2</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">22, 26, 35 -- speech and dialogue, Authors3 (Ilinykh and Loáiciga), Title3</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">...</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: salmon;">
+<td style="text-align: center;">15.00</td>
+<td style="text-align: center;">Coffee with posters</td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">8 posters incl. item 21</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">...</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">...</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">16.00</td>
+<td style="text-align: center;">LLMs and Evaluation -- move to 28th!</td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">4, 27, 28 -- LLMs and evaluation, Authors4 (R. Johansson), Title4</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">4, 27, 28 -- LLMs and evaluation, Authors5 (Malmberg et al), Title5</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">4, 27, 28 -- LLMs and evaluation Authors6 (Moell et al), Title6</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: salmon;">
+<td style="text-align: center;">17.30</td>
+<td style="text-align: center;">Departure for Flygvapenmuseet</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="tab:day2">
+<h2 id="day-2">Day 2, November, 28</h2>
+<p>Oral presentations are given in the lecture hall, Ada Lovelace. The frame is 10 minutes for presentation and 5 minutes for discussion.</p>
+  
+<p>Coffee is served in Ljusgården and poster presentations in ??</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Time</strong></th>
+<th style="text-align: center;"><strong>Content</strong></th>
+<th style="text-align: center;"><strong>Chair</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">09.00</td>
+<td style="text-align: center;">Invited speaker: <i>David Samuel</i>, Title TBA</td>
+<td style="text-align: center;">MarcoorJenny?</td>
+</tr>
+<tr style="background-color: salmon;">
+<td style="text-align: center;">10.00</td>
+<td style="text-align: center;">Coffee</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">10.25</td>
+<td style="text-align: center;">17, 18, -- text profiling</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">17, 18, -- text profiling, Authors7 (Albertin and Kokkinakis), 
+Title7</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">17, 18, -- text profilingAuthors8 (Ahltorp and Skeppstedt), Title8</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">11.00</td>
+<td style="text-align: center;">Classification</td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">12, 15, 33 -- Classification, Authors9 (Stymne), Title (Direct speech)</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">12, 15, 33 -- Classification, Authors10 (Szaverna et al), Title110 (Personal data)</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">12, 15, 33 -- Classification, Authors11 (Ryazanov), Title11</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: salmon;">
+<td style="text-align: center;">12.00</td>
+<td style="text-align: center;">Lunch at Vallfarten</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">13.00</td>
+<td style="text-align: center;">2, 9, 23  -- readability, text complexity</td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;">2, 9, 23  -- readability, text complexity, Authors12 (Brissman and Jönsson), Title12</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">2, 9, 23  -- readability, text complexity, Authors13 (Holmer and Jönsson), Title13</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">2, 9, 23  -- readability, text complexity, Authors14 (Moell, Aronsson, Boye), Title14</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">14.00</td>
+<td style="text-align: center;">Panel on SOMETHING TBD</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">Participants: a, b, c, ...</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: salmon;">
+<td style="text-align: center;">15.00</td>
+<td style="text-align: center;">Coffee with posters</td>
+<td style="text-align: center;"></td>
+</tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">7 posters</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">...</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">...</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr style="background-color: peachpuff;">
+<td style="text-align: center;">16.00</td>
+<td style="text-align: center;">8, 31  -- formal languages and cryptography</td>
+<td style="text-align: center;">TBD</td>
+</tr>
+
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">8, 31  -- formal languages and cryptography, Authors15 (Megyesi), Title15</td>
+<td style="text-align: center;"></td>
+</tr>
+<Tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">8, 31  -- formal languages and cryptography, Authors16 (Ranta), Title16</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">16.40</td>
+<td style="text-align: center;">Closing session</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div id="tab;Day 3">
+<h2 id="day-3">Day 3, November, 29</h2>
+
+<p>The workshop schedules can be found at the workshop's web pages</p>
+  
+  <table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Time</strong></th>
+<th style="text-align: center;"><strong>Workshop</strong></th>
+<th style="text-align: center;"><strong>Room</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">9.00 - 17</td>
+<td style="text-align: center;"><a href="https://sites.google.com/view/css-language-tech-workshop">Computational Social Science and Language Technology</a></td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;">9.00 - 17</td>
+<td style="text-align: center;"><a href="https://sites.google.com/view/sw-conv-ai-2024/home">Swedish Workshop on Conversational Systems</a></td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;">9.00 - 12??</td>
+<td style="text-align: center;"><a href="https://gu-clasp.github.io/language-and-perception/events/positronic-brain/">Towards the Positronic Brain: Embodied Language Processing and Multimodal Interaction.</a></td>
+<td style="text-align: center;">TBD</td>
+</tr>
+<tr>
+<td style="text-align: center;">13.00 - 17??</td>
+<td style="text-align: center;"><a href="https://sites.google.com/view/sw-conv-ai-2024/home">Applications of Universal Dependencies</a></td>
+<td style="text-align: center;">TBD</td>
+</tr>
+    </Tbody>
+  </table>
+</div>
+
+</body>
+</html>
