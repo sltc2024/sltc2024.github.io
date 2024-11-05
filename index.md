@@ -8,9 +8,9 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 * Workshop Proposal Submission Deadline: ~~23.8.~~
 * Workshop Notification of Acceptance: ~~26.8.~~
-* Extended Abstracts Submission Deadline: ~~15.9~~
-* Extended Abstracts Notification of Acceptance: ~~14.10~~.
-* Camera-Ready Abstracts: 1.11. 
+* Extended Abstracts Submission Deadline: ~~15.9.~~
+* Extended Abstracts Notification of Acceptance: ~~14.10.~~
+* Camera-Ready Abstracts: ~~1.11.~~ 
 * Conference: 27-28.11. 
 * Workshops: 29.11.
 
@@ -60,5 +60,5 @@ Local organization committee:
 * Marco Kuhlmann
 * Jenny Kunz
 
-Recent history: 2022 (KTH), [2020 (GU)](https://spraakbanken.gu.se/en/sltc2020), [2018 (SU)](https://sltc2018.su.se), [2016 (UmU)](http://sltc2016.cs.umu.se), [2014 (UU)](https://www2.lingfil.uu.se/SLTC2014/), [2012 (LU)](https://nlp.cs.lth.se/events/sltc-2012/), [2010 (LiU)](https://www.ida.liu.se/conferences/sltc2010/), 2008 (KTH), 2006 (GU).
+Past events: 2022 (KTH), [2020 (GU)](https://spraakbanken.gu.se/en/sltc2020), [2018 (SU)](https://sltc2018.su.se), [2016 (UmU)](http://sltc2016.cs.umu.se), [2014 (UU)](https://www2.lingfil.uu.se/SLTC2014/), [2012 (LU)](https://nlp.cs.lth.se/events/sltc-2012/), [2010 (LiU)](https://www.ida.liu.se/conferences/sltc2010/), 2008 (KTH), 2006 (GU).
 
