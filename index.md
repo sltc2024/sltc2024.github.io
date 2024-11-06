@@ -20,7 +20,7 @@ If you will participate, please register [here](https://www.trippus.net/sltc2024
 
 ### Program
 
-The preliminary program is available [here](schema.html). The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
+The preliminary program is available [here](https://sltc2024.github.io/schema.html). The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
 
 ### Workshops
 
