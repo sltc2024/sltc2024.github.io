@@ -16,15 +16,15 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 ### Registration
 
-If you will participate, please register [here](https://www.trippus.net/sltc2024_delegate). 
+If you will participate, please register [here](https://www.trippus.net/sltc2024_delegate). The last day to register is the 17th of November.  
 
 ### Program
 
-The program will be published in the beginning of November. The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
+The preliminary program is available [here](schema.html). The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
 
 ### Workshops
 
-SLTC 2024 traditionally hosts selected workshops on relevant topics. This year's workshops are: 
+SLTC 2024 traditionally hosts selected workshops on relevant topics. This year, we have four workshops taking place on the 29th of November:  
 
 * [Computational Social Science and Language Technology](https://sites.google.com/view/css-language-tech-workshop)
 * [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home)
@@ -43,6 +43,10 @@ We will have two keynotes by our exciting invited speakers:
 Talk Abstract: *The BabyLM Challenge represents a unique opportunity in language model research: by limiting training data to just 10–100M words - comparable to what children encounter during language acquisition - it creates an accessible environment for exploring fundamental questions about language learning. Unlike typical language model research that requires massive computing resources and trillions of training tokens, BabyLM's constrained setting enables rapid experimentation and architectural innovation. We present our findings from multiple submissions to this challenge, including a novel GPT-BERT hybrid that combines masked and causal language modeling objectives, and an innovative layer-selective transformer that allows each layer to choose its inputs from previous layers. We also investigated latent bootstrapping as an alternative to traditional self-supervision. Our experiments demonstrate that architectural innovations can dramatically improve data efficiency, with our hybrid models and layer-selective transformers achieving strong performance on linguistic benchmarks despite using orders of magnitude less data than conventional language models. These results point to promising directions for developing more efficient language models while highlighting the value of constrained experimental settings in advancing our understanding of language learning.*
 
 **Tiago Pimentel** is a Postdoc at ETH Zürich and holds a PhD from the University of Cambridge. His work on information theory as a tool to understand linguistics and language models has been groundbreaking, with important applications such as probing representations for linguistic structure and improving sampling strategies in generative models.
+
+Title: *Duplicating Vocabularies to Analyse Generalisation in Language Models*
+
+Talk Abstract: *Despite many recent advancements in language modelling, there is still much we do not understand about their inner workings. The non-linearity of language models (LMs)—along with the complexity of natural language—make it hard to isolate factors of interest we want to investigate. In this talk, we explore how duplicating a language model’s vocabulary can create targeted and controlled experiments, which we leverage to address two research questions. First, we will leverage vocabulary duplication to investigate lexical generalisation in LMs; particularly, we will look at the effect of near duplicate subwords (e.g., vocabulary items such as Now and now) in a LM's performance. Second, we will analyse cross-linguistic generalisation, investigating how language data (im)balance affects performance.*
 
 ### Call for Extended Abstracts
 
