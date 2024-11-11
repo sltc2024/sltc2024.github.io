@@ -28,7 +28,7 @@ SLTC 2024 traditionally hosts selected workshops on relevant topics. This year, 
 
 * [Computational Social Science and Language Technology](https://sites.google.com/view/css-language-tech-workshop)
 * [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home)
-* [Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction](https://gu-clasp.github.io/language-and-perception/events/positronic-brain/)
+* ~~[Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction](https://gu-clasp.github.io/language-and-perception/events/positronic-brain/)~~ (cancelled)
 * [Applications of Universal Dependencies](https://udapp-sltc-2024.github.io)
 
 If you can arrive early on the 27th, you could consider attending this seminar at LiU's TEMA institute: [The Rawness of the Data](https://liu.se/en/event/datalab-12-the-rawness-of-the-data).
