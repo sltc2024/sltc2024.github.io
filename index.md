@@ -16,7 +16,7 @@ The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<
 
 ### Registration
 
-If you will participate, please register [here](https://www.trippus.net/sltc2024_delegate). The last day to register is the 17th of November.  
+The official registration date has passed. For late registrations, please contact us first at sltc2024@googlegroups.com.
 
 ### Program
 
