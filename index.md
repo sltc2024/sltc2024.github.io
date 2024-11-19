@@ -22,6 +22,8 @@ The official registration date has passed. For late registrations, please contac
 
 The preliminary program is available [here](https://sltc2024.github.io/schema.html). The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
 
+We will be in the B-building at Campus Valla, best accessed via entrance [27](https://link.mazemap.com/YTslGjcU) or [27C](https://link.mazemap.com/9vvAa1q7). All oral presentations take place in the [Ada Lovelace](https://link.mazemap.com/jbZlc2rS) lecture hall, and poster sessions and coffee breaks in [Ljusgården](https://link.mazemap.com/8HwwYcHB). 
+
 ### Workshops
 
 SLTC 2024 traditionally hosts selected workshops on relevant topics. This year, we have four workshops taking place on the 29th of November:  
