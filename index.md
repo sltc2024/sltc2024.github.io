@@ -24,6 +24,8 @@ The preliminary program is available [here](https://sltc2024.github.io/schema.ht
 
 We will be in the B-building at Campus Valla, best accessed via entrance [27](https://link.mazemap.com/YTslGjcU) or [27C](https://link.mazemap.com/9vvAa1q7). All oral presentations take place in the [Ada Lovelace](https://link.mazemap.com/jbZlc2rS) lecture hall, and poster sessions and coffee breaks in [Ljusgården](https://link.mazemap.com/8HwwYcHB). 
 
+For lunch, good and convenient options are [Universitetsklubben](https://maps.app.goo.gl/k4xGBfmJ5ufm61Wb9), [Pegs & Tails](https://maps.app.goo.gl/w7aqF1bLzDk3MH9K9) and [Kårallen](https://g.co/kgs/VsTwYfU). If you're looking for takeaway options there's also [Falafelhuset](https://maps.app.goo.gl/XcuW3vMYd5d36hRy5) and [Pressbyrån](https://maps.app.goo.gl/UB5HbUzr24BNzuuW9). If you have your own or takeaway food, you can eat in [Ljusgården](https://link.mazemap.com/8HwwYcHB). 
+
 ### Workshops
 
 SLTC 2024 traditionally hosts selected workshops on relevant topics. This year, we have four workshops taking place on the 29th of November:  
