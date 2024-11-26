@@ -26,7 +26,7 @@ We will be in the B-building at Campus Valla, best accessed via entrance [27](ht
 
 For lunch, good and convenient options are [Universitetsklubben](https://maps.app.goo.gl/k4xGBfmJ5ufm61Wb9), [Pegs & Tails](https://maps.app.goo.gl/w7aqF1bLzDk3MH9K9) and [Kårallen](https://g.co/kgs/VsTwYfU). If you're looking for takeaway options there's also [Falafelhuset](https://maps.app.goo.gl/XcuW3vMYd5d36hRy5) and [Pressbyrån](https://maps.app.goo.gl/UB5HbUzr24BNzuuW9). If you have your own or takeaway food, you can eat in [Ljusgården](https://link.mazemap.com/8HwwYcHB). 
 
-The social event of the main conference will be in [Flygvapenmuseum](https://flygvapenmuseum.se) with a dinner and a guided tour. A bus to the venue will depart from Scancid Frimurarehotellet at 17:30 and from Campus Valla (about [here](https://link.mazemap.com/ERJ9eBud) at 17:40. 
+The social event of the main conference will be in [Flygvapenmuseum](https://flygvapenmuseum.se) with a dinner and a guided tour. A bus to the venue will depart from Scancid Frimurarehotellet at 17:30 and from Campus Valla (about [here](https://link.mazemap.com/ERJ9eBud)) at 17:40. 
 
 ### Workshops
 
