@@ -4,23 +4,10 @@ title: SLTC 2024
 
 The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<sup>th</sup>–29<sup>th</sup> of November 2024** at **Linköping University**, Sweden, with the main conference on Wednesday–Thursday 27<sup>th</sup>-28<sup>th</sup> of November and workshops on Friday, 29<sup>th</sup> of November. All researchers and students working on NLP and related fields are invited to participate. 
 
-### Important Dates
-
-* Workshop Proposal Submission Deadline: ~~23.8.~~
-* Workshop Notification of Acceptance: ~~26.8.~~
-* Extended Abstracts Submission Deadline: ~~15.9.~~
-* Extended Abstracts Notification of Acceptance: ~~14.10.~~
-* Camera-Ready Abstracts: ~~1.11.~~ 
-* Conference: 27-28.11. 
-* Workshops: 29.11.
-
-### Registration
-
-The official registration date has passed. For late registrations, please contact us first at sltc2024@googlegroups.com.
 
 ### Program
 
-The preliminary program is available [here](https://sltc2024.github.io/schema.html). The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
+The main conference program is available [here](https://sltc2024.github.io/schema.html). The main conference will start on the 27. at 13:00 and end on the 28. at 17:00. For workshop programs, we refer to their respective websites. 
 
 **Location:** We will be in the B-building at Campus Valla, best accessed via entrance [27](https://link.mazemap.com/YTslGjcU) or [27C](https://link.mazemap.com/9vvAa1q7). All oral presentations take place in the [Ada Lovelace](https://link.mazemap.com/jbZlc2rS) lecture hall, and poster sessions and coffee breaks in [Ljusgården](https://link.mazemap.com/8HwwYcHB). 
 
@@ -55,6 +42,20 @@ Talk Abstract: *The BabyLM Challenge represents a unique opportunity in language
 Title: *Duplicating Vocabularies to Analyse Generalisation in Language Models*
 
 Talk Abstract: *Despite many recent advancements in language modelling, there is still much we do not understand about their inner workings. The non-linearity of language models (LMs)—along with the complexity of natural language—make it hard to isolate factors of interest we want to investigate. In this talk, we explore how duplicating a language model’s vocabulary can create targeted and controlled experiments, which we leverage to address two research questions. First, we will leverage vocabulary duplication to investigate lexical generalisation in LMs; particularly, we will look at the effect of near duplicate subwords (e.g., vocabulary items such as Now and now) in a LM's performance. Second, we will analyse cross-linguistic generalisation, investigating how language data (im)balance affects performance.*
+
+### Important Dates
+
+* Workshop Proposal Submission Deadline: ~~23.8.~~
+* Workshop Notification of Acceptance: ~~26.8.~~
+* Extended Abstracts Submission Deadline: ~~15.9.~~
+* Extended Abstracts Notification of Acceptance: ~~14.10.~~
+* Camera-Ready Abstracts: ~~1.11.~~ 
+* Conference: 27-28.11. 
+* Workshops: 29.11.
+
+### Registration
+
+The official registration date has passed. For late registrations, please contact us first at sltc2024@googlegroups.com.
 
 ### Call for Extended Abstracts
 
