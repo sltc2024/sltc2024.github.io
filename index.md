@@ -2,7 +2,7 @@
 title: SLTC 2024
 ---
 
-### **OBS: Room Change: The Swedish Workshop on Conversational AI will be in [Systemet](https://link.mazemap.com/hoZtsktB)**.
+## **OBS: Room Change: The Swedish Workshop on Conversational AI will be in [Systemet](https://link.mazemap.com/hoZtsktB)**.
 
 The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<sup>th</sup>–29<sup>th</sup> of November 2024** at **Linköping University**, Sweden, with the main conference on Wednesday–Thursday 27<sup>th</sup>-28<sup>th</sup> of November and workshops on Friday, 29<sup>th</sup> of November. All researchers and students working on NLP and related fields are invited to participate. 
 
