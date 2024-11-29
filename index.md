@@ -2,6 +2,8 @@
 title: SLTC 2024
 ---
 
+**OBS: Room Change: The Swedish Workshop on Conversational AI will be in [Systemet](https://link.mazemap.com/hoZtsktB)**.
+
 The Tenth Swedish Language Technology Conference (SLTC) will take place on **27<sup>th</sup>–29<sup>th</sup> of November 2024** at **Linköping University**, Sweden, with the main conference on Wednesday–Thursday 27<sup>th</sup>-28<sup>th</sup> of November and workshops on Friday, 29<sup>th</sup> of November. All researchers and students working on NLP and related fields are invited to participate. 
 
 
@@ -20,7 +22,7 @@ The main conference program is available [here](https://sltc2024.github.io/schem
 This year, we have ~~four~~ three workshops taking place on the 29th of November:  
 
 * [Computational Social Science and Language Technology](https://sites.google.com/view/css-language-tech-workshop). Room: [John von Neumann](https://link.mazemap.com/CQpwM9mB).
-* [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home). Room: [Ada Lovelace](https://link.mazemap.com/jbZlc2rS).
+* [Swedish Workshop on Conversational AI](https://sites.google.com/view/sw-conv-ai-2024/home). Room: [Systemet](https://link.mazemap.com/hoZtsktB)
 * ~~[Towards the Positronic Brain: Workshop on Embodied Language Processing and Multimodal Interaction](https://gu-clasp.github.io/language-and-perception/events/positronic-brain/)~~ (cancelled)
 * [Applications of Universal Dependencies](https://udapp-sltc-2024.github.io). Room: [Alan Turing](https://link.mazemap.com/iNCSUvXo).
 
